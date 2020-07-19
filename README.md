@@ -1,68 +1,36 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React Fundamentals
 
-## Available Scripts
+React course focused on the basics, with exercises and creation of two Apps from scratch.
 
-In the project directory, you can run:
+## Course modules
 
-### `npm start`
+* [1. Introduction 1](#1-introduction)
+* [2. React Fundamentals](#2-react-fundamentals)
+* [3. Calculator Project](#3-calculator-project)
+* [4. TodoApp (Backend)](#4-todoapp-backend)
+* [5. TodoApp (Frontend)](#5-todoapp-frontend)
+* [6. State management with Redux](#6-state-management-with-redux)
+* [7. TodoApp (Migration to Redux)](#7-todoapp-migration-to-redux)
+* [8. Final application - Payment cycles (Backend)](#8-final-application-payment-cycles-backend)
+* [9. Final application - Payment cycles (Frontend)](#9-final-application-payment-cycles-frontend)
+* [10. Improvements and fixes](#10-improvements-and-fixes)
+* [11. Final application - Authentication (Backend)](#11-final-application-authentications-backend)
+* [12. Final application - Authentication (Frontend)](#11-final-application-authentications-frontend)
+* [13. Final application - Authentication (Updating the libraries)](#11-final-application-authentications-updating-the-libraries)
+* [14. Deploy Heroku](#11-deploy-heroku)
+* [15. Webpack 4](#11-webpack-4)
+* [16. React 16.4](#11-react-16.4)
+* [17. User registration project](#11-user-registration-project)
+* [18. Extra contents](#11-extra-contents)
+* [19. Github pages](#11-github-pages)
+* [20. Autor](#11-autor)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+***
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Introduction
 
-### `npm test`
+Course overview and environment Settings.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## React Fundamentals
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Knowing files jsx, loading css, first component, React fragment.
