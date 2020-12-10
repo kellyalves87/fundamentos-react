@@ -1,6 +1,8 @@
 import "./App.css";
 import React from "react";
 
+import Count from "./components/count/Count";
+import Input from "./components/form/Input";
 import IndirectFather from "./components/ comunication/IndirectFather";
 import DirectFather from "./components/ comunication/DirectFather";
 import UserInfo from "./components/conditional/UserInfo";
@@ -20,6 +22,14 @@ export default () => (
     <h1>React Fundamentals</h1>
 
     <div className="Cards">
+      <Card title="#12 - Count" color="#424242">
+        <Count initialNumber={10}></Count>
+      </Card>
+
+      <Card title="#11 - Controlled Component (Input)" color="#E45F56">
+        <Input></Input>
+      </Card>
+
       <Card title="#10 - Indirect Comunication" color="#8BAD39">
         <IndirectFather></IndirectFather>
       </Card>
@@ -29,7 +39,7 @@ export default () => (
       </Card>
 
       <Card title="#08 - Render Conditional" color="#982395">
-        <EvenOrOdd numero={20}></EvenOrOdd>
+        <EvenOrOdd number={20}></EvenOrOdd>
         <UserInfo user={{ name: "Kelly" }} />
       </Card>
 
